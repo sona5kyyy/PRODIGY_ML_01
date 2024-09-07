@@ -124,6 +124,9 @@ For example:
 predicted_price = predict_price(2000, 3, 2)
 print(f"Predicted Price: ${predicted_price:.2f}")
 
+## SCREENSHOT OF THE OUTPUT
+![Houseppoutput](https://github.com/user-attachments/assets/3e8522ea-5f6c-4417-9e8d-d3d5e36a30e7)
+
 # Evaluation
 After training the model, it is evaluated using the Mean Squared Error (MSE) and R-squared score. These metrics help to measure how well the model fits the data.
 
